@@ -4,7 +4,7 @@ public class EjemploGit {
 		
 		System.out.println("Hola alumnos de git");		
 		String alumno = "Yeromi";		
-		System.out.println(alumno);
+		System.out.println("Bienvenido " + alumno);
 		
 	}
 
